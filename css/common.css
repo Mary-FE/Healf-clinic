@@ -1,0 +1,105 @@
+/* html {
+    scroll-behavior: smooth;
+} */
+
+body {
+    color: var(--medical-color5);
+    font-family: var(--font-family__text);
+}
+
+/* Icons */
+.menu:before {content: var(--icon-menu)}
+.heart:before {content: var(--icon-heart)}
+.facebook:before {content: var(--icon-facebook)}
+.twitter:before {content: var(--icon-twitter)}
+.instagram:before {content: var(--icon-instagram)}
+.linkedin:before {content: var(--icon-linkedin)}
+
+/* Button */
+.button {
+    padding: 10px 30px;
+
+    border-radius: 50px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    transition: var(--base-animation);
+
+    cursor: pointer;
+}
+
+.white {
+    background-color: var(--medical-color1);
+    color: var(--medical-color4);
+}
+
+.white:hover {
+    background-color: var(--medical-color2);
+}
+
+.blue {
+    color: var(--medical-color1);
+    background-color: var(--medical-color3);
+}
+
+.blue:hover {
+    background-color: var(--medical-color3);
+}
+
+/* Icons */
+.icon {
+    font: 500 64px var(--font-family__icons);
+    text-decoration: none;
+    cursor: pointer;
+    transition: var(--base-animation);
+}
+
+.menu {
+    padding-top: 5px;
+    font-size: 24px;
+    color: var(--medical-color1);
+}
+
+.menu:hover {
+    color: var(--medical-color2);
+}
+
+.social {
+    font-size: 25px;
+    color: var(--medical-color5);
+}
+
+.social:hover {
+    color: var(--medical-color3);
+}
+
+/* Links */
+.link {
+    text-decoration: none;
+}
+
+/* Titles*/
+h1 {
+    font: 600 50px var(--font-family__title);
+}
+
+h2 {
+    font: 700 32px/1 var(--font-family__title);
+}
+
+h3 {
+    font: 700 22px var(--font-family__title);
+}
+
+h4 {
+    font: 400 20px var(--font-family__title);
+}
+
+.box {
+    max-width: 1200px; /* 1200px go to some variable */
+    margin: 0 auto;
+    padding: 20px 30px;
+}
+
+a {
+    text-decoration: none;
+}

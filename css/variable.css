@@ -1,0 +1,24 @@
+:root {
+    /* Color */
+    --medical-color1: #fff;
+    --medical-color2: #e6e6e6;
+    --medical-color3: #78c2ea;
+    --medical-color4: #259bca;
+    --medical-color5: #111;
+
+    /* Font */
+    --font-family__title: 'Roboto', sans-serif;
+    --font-family__text:  'Open Sans', sans-serif;
+    --font-family__icons: 'Medical-clinic Icons';
+    
+    /* Button */
+    --base-animation: all .35s ease;
+
+    /* Icons */
+    --icon-menu: '\e900';
+    --icon-heart: '\e901';
+    --icon-facebook: '\e902';
+    --icon-twitter: '\e903';
+    --icon-instagram: '\e904';
+    --icon-linkedin: '\e905';
+}
