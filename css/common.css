@@ -17,7 +17,7 @@ body {
 
 /* Button */
 .button {
-    padding: 10px;
+    padding: 10px 45px;
 
     border-radius: 50px;
     font-weight: 700;
@@ -42,7 +42,7 @@ body {
 }
 
 .blue:hover {
-    background-color: var(--medical-color3);
+    background-color: var(--medical-color4);
 }
 
 /* Icons */
@@ -79,7 +79,7 @@ body {
 
 /* Titles*/
 h1 {
-    font: 600 50px var(--font-family__title);
+    font: 500 45px var(--font-family__title);
 }
 
 h2 {
@@ -102,4 +102,11 @@ h4 {
 
 a {
     text-decoration: none;
+}
+
+/* Other */
+.line {
+    width: 54px;
+    margin: 25px auto;
+    border-bottom: 10px solid var(--medical-color3);
 }
