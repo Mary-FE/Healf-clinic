@@ -1,0 +1,20 @@
+.portal {
+    background-color: var(--medical-color3);
+}
+
+.portal .title, .subtitle {
+    margin-bottom: 15px;
+    color: var(--medical-color1);
+}
+
+.portal .title {
+    max-width: 270px;
+}
+
+.portal .button {
+    margin-bottom: 15px;
+}
+
+.portal img {
+    width: 100%;
+}

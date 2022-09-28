@@ -17,7 +17,7 @@ body {
 
 /* Button */
 .button {
-    padding: 10px 30px;
+    padding: 10px;
 
     border-radius: 50px;
     font-weight: 700;
@@ -83,11 +83,11 @@ h1 {
 }
 
 h2 {
-    font: 700 32px/1 var(--font-family__title);
+    font: 600 35px/1 var(--font-family__title);
 }
 
 h3 {
-    font: 700 22px var(--font-family__title);
+    font: 700 27px var(--font-family__title);
 }
 
 h4 {
