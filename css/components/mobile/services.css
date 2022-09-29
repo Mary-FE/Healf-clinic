@@ -1,0 +1,24 @@
+.services {
+    background-color: var(--medical-color4);
+    color: var(--medical-color1);
+    text-align: center;
+}
+
+.services .title {
+    margin-bottom: 15px;
+    font-size: 23px;
+}
+
+.services .text {
+    margin-bottom: 15px;
+    font-size: 13px;
+    line-height: 1.6;
+}
+
+.services .button {
+    margin-bottom: 20px;
+}
+
+.services img {
+    width: 100%;
+}

@@ -17,7 +17,7 @@ body {
 
 /* Button */
 .button {
-    padding: 10px 45px;
+    padding: 10px;
 
     border-radius: 50px;
     font-weight: 700;
@@ -70,6 +70,12 @@ body {
 
 .social:hover {
     color: var(--medical-color3);
+}
+
+.heart {
+    font: 500 25px var(--font-family__icons);
+    text-decoration: none;
+    color: var(--medical-color1);
 }
 
 /* Links */

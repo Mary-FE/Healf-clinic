@@ -1,7 +1,10 @@
+.navigation {
+    background-color: var(--medical-color4);
+}
+
 .navigation .box {
     display: flex;
     justify-content: end;
-    background-color: var(--medical-color4);
 }
 
 .navigation input[type="checkbox"] {

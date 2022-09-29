@@ -1,3 +1,8 @@
+.portal .type {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
 .portal .subtitle {
     font-size: 25px;
 }
