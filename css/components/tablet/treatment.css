@@ -1,0 +1,12 @@
+.treatment {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.treatment .title {
+    font-size: 27px;
+}
+
+.treatment .subtitle {
+    font-size: 17px;
+}

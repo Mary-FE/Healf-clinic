@@ -1,0 +1,32 @@
+.treatment .title {
+    margin-bottom: 20px;
+    font-size: 23px;
+}
+
+.treatment .subtitle {
+    margin-bottom: 20px;
+}
+
+.treatment .item-1, 
+.treatment .item-2,
+.treatment .item-3,
+.treatment .item-4 {
+    padding: 20px;
+    color: var(--medical-color1);
+}
+
+.treatment .item-1 {
+    background-color: var(--medical-color3);
+}
+
+.treatment .item-2 {
+    background-color: var(--medical-color3-1);
+}
+
+.treatment .item-3 {
+    background-color: var(--medical-color3-1);
+}
+
+.treatment .item-4 {
+    background-color: var(--medical-color3);
+}

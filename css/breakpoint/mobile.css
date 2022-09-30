@@ -2,6 +2,8 @@
 @import '../components/mobile/portal.css';
 @import '../components/mobile/contact.css';
 @import '../components/mobile/services.css';
+@import '../components/mobile/info.css';
+@import '../components/mobile/treatment.css';
 
 @import '../components/two-columns.css';
 @import '../components/three-columns.css';

@@ -1,0 +1,16 @@
+.info .main-title {
+    font-size: 65px;
+}
+
+.info .text {
+    max-width: 600px;
+    font-size: 24px;
+}
+
+.info .title {
+    font-size: 26px;
+}
+
+.info .subtitle {
+    font-size: 20px;
+}

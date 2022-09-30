@@ -5,7 +5,8 @@
 .portal .box {
     padding-block: 0;
 }
-.portal .title, .subtitle {
+.portal .title, 
+.portal .subtitle {
     margin-bottom: 15px;
     color: var(--medical-color1);
 }

@@ -1,0 +1,22 @@
+.info .main-title {
+    font-size: 50px;
+}
+
+.info .text {
+    max-width: 550px;
+    margin: 25px auto;
+}
+
+.info .item {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.info .subtitle {
+    font-size: 14px;
+}
+
+.info img {
+    display: block;
+    width: 100%;
+}

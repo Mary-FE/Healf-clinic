@@ -1,0 +1,34 @@
+.info .main-title,
+.info .text {
+    text-align: center;
+}
+
+.info .main-title {
+    font-size: 42px;
+}
+
+.info .text {
+    margin-bottom: 30px;
+    font-size: 13px;
+}
+
+.info img {
+    display: none;
+}
+
+/* Category */
+.info .title {
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+
+.info .title,
+.info .subtitle {
+    text-align: right;
+}
+
+.info .subtitle {
+    margin-bottom: 25px;
+    font: Italic 400 12px var(--font-family__text);
+    color: var(--medical-color2-1);
+}
