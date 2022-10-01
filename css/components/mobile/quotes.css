@@ -1,0 +1,10 @@
+.quotes img {
+    margin-bottom: 15px;
+    max-width: 100px;
+}
+
+.quotes .name {
+    margin-bottom: 15px;
+    color: var(--medical-color4);
+    font: 500 18px var(--font-family__text);
+}
