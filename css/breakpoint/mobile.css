@@ -5,6 +5,9 @@
 @import '../components/mobile/info.css';
 @import '../components/mobile/treatment.css';
 @import '../components/mobile/quotes.css';
+@import '../components/mobile/submit.css';
+@import '../components/mobile/additionally.css';
+@import '../components/mobile/footer.css';
 
 @import '../components/two-columns.css';
 @import '../components/three-columns.css';

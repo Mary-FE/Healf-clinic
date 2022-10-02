@@ -1,0 +1,18 @@
+.submit {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.submit img {
+    width: 100%;
+    height: 430px;
+    object-fit: cover;
+}
+
+.submit .title {
+    font-size: 40px;
+}
+
+.submit .text {
+    font-size: 16px;
+}

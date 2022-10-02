@@ -1,0 +1,39 @@
+.submit img {
+    width: 100%;
+}
+
+.submit .item {
+    padding: 20px;
+    background-color: var(--medical-color3);
+}
+
+.submit .title {
+    font: 31px/1.1 var(--font-family__title);
+    margin-bottom: 10px;
+}
+
+.submit .text {
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+
+.submit .title,
+.submit .text {
+    color: var(--medical-color1);
+}
+
+/* Form */
+.submit form {
+    display: grid;
+    grid-gap: 10px;
+}
+
+.submit input,
+.submit textarea {
+    padding: 10px 12px;
+}
+
+.submit button {
+    width: 110px;
+    margin: 0 auto;
+}

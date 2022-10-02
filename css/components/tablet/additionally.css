@@ -1,0 +1,8 @@
+.additionally .box {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.additionally .title {
+    font-size: 20px;
+}

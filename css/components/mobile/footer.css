@@ -1,0 +1,5 @@
+.footer {
+    padding: 20px;
+    background-color: var(--medical-color3);
+    color: var(--medical-color1);
+}

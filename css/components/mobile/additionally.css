@@ -1,0 +1,15 @@
+.additionally .title {
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.additionally .type {
+    display: grid;
+    grid-template-columns: 1fr;
+    
+    margin-bottom: 15px;
+}
+
+.additionally .subtitle {
+    margin-bottom: 15px;
+}
